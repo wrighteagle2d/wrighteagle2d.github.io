@@ -94,6 +94,8 @@ Binaries
     Ubuntu 16.04)](binaries/WrightEagle_stable_ubuntu_16.04.tar.gz)
 -   [Stable Version (for
     Ubuntu 14.04)](binaries/WrightEagle_stable_ubuntu_14.04.tar.gz)
+-   [Stable Version (for
+    Ubuntu 12.04)](binaries/WrightEagle_stable_ubuntu_12.04.tar.gz)
 -   [Binary of RoboCup 2015 (for
     Ubuntu 14.04)](binaries/WrightEagle_rc15_ubuntu_14.04_release.tar.gz)
 -   [Binary of RoboCup 2015](binaries/WrightEagle_rc15_release.tar.gz)
