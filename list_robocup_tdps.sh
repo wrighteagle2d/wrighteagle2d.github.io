@@ -6,7 +6,7 @@ OUTPUT="robocup_tdps_body.html"
 rm -f $OUTPUT
 touch $OUTPUT
 
-echo "<p>This is a list of Team Description Papers (TDPs) from annual RoboCup 2D competitions since 2002.</p>" >> $OUTPUT
+echo "<p>This is a list of RoboCup 2D Team Description Papers (TDPs) since 2002 and some related papers/technical reports.</p>" >> $OUTPUT
 i=0
 for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d | sort -r`; do
   path=`basename "$filepath"`
