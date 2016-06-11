@@ -20,7 +20,7 @@
 set -o nounset                              # Treat unset variables as an error
 
 for i in *_body.md; do
-    markdown "${i}" > "${i/.md/}.html"
+    pandoc -f markdown -t html "${i}" > "${i/.md/}.html"
 done
 
 ./list_robocup_tdps.sh
