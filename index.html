@@ -34,63 +34,79 @@
 </div>
 
 
-
 <h2>Introduction</h2>
-<p>WrightEagle 2D Soccer Simulation Team was established in 1998. It is a branch of WrightEagle Robocup Team. WrightEagle RoboCup Team belongs to 
-<a href="http://wrighteagle.org" target="_blank">Multi-Agent Systems Lab.</a>, <a href="http://cs.ustc.edu.cn/" target="_blank">School of Compute Science and Technology</a>, <a href="http://www.ustc.edu.cn" target="_blank">University of Science and Technology of China</a>, China.</p>
-<p>
-We have participated in annual competitions of RoboCup since 1999 and have got 6 champions and 5 runners-up of RoboCup in recent 11 years. We take RoboCup 2D 
-soccer simulation as a typical problem of multi-agent systems, and our long-term goal is to do research in decision-making and other challenging projects in Artificial Intelligence.
-</p>
-<br>
-<br>
+
+<p><a href="http://www.wrighteagle.org/2d/">WrightEagle 2D Soccer Simulation Team</a> is a branch of <a href="http://www.wrighteagle.org/">WrightEagle</a> Robocup Team, established in 1998 by the <a href="http://wrighteagle.org">Multi-Agent Systems Lab.</a>, <a href="http://www.ustc.edu.cn">University of Science and Technology of China</a> (USTC). We have participated in annual competitions of RoboCup since 1999 and have won 6 <strong><em>world champions</em></strong> and 5 runners-up of RoboCup since 2005.</p>
+
+<p>We model <a href="https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League">RoboCup 2D soccer simulation</a> as a typical problem of partially observable stochastic games (POSGs). In order to solve it online under realtime constrains, we take advantage of rationality assumption, hierarchical decomposition, state abstraction, expectimax tree search and heuristic evaluation. More precisely, we model the RoboCup 2D game as a <a href="https://en.wikipedia.org/wiki/Markov_decision_process">Markov Decision Process</a> (MDP), with the assumption that opponents and teammates are all rational. We further decompose the sequential decision-making problem within the resulting MDP into a hierarchy of subtasks. A hierarchical online planning algorithm is then developed for the agent to do online planning in realtime, exploiting subtask-specific heuristic and evaluation functions. More information regarding our approach to RoboCup 2D can be found in our recent <a href="http://wrighteagle2d.github.io/publications.html">publications</a>.</p>
+
+<p><br>
+<br></p>
+
+<h2>Research</h2>
+
+<ul>
+<li><a href="http://www.wrighteagle.org/en/research/planning.php">Planning algorithms for (partially observable) Markov Decision Processes (MDPs and POMDPs)</a></li>
+<li><a href="http://www.wrighteagle.org/en/research/decpomdp.php">Decentralized partially observable Markov Decision Processes (Dec-POMDPs)</a></li>
+<li><a href="http://www.wrighteagle.org/en/research/decisionmaking.php">Principled solutions to large-scale decision-making via hierarchical decomposition</a></li>
+</ul>
+
+<p><br>
+<br></p>
 
 <h2>Videos</h2>
+
 <ul>
-<li><a href="https://www.youtube.com/watch?v=Ptzv9NF9opM">Final of RoboCup 2015</a>&nbsp;(HELIOS2015_0-vs-WrightEagle_3) </li>
-<li><a href="https://www.youtube.com/watch?v=kRIygFjlD_Q">Final of RoboCup 2014</a>&nbsp;(WrightEagle_3-vs-Gliders2014_2) </li>
-<li><a href="https://www.youtube.com/watch?v=BoWoIc4IrtI">Final of RoboCup 2013</a>&nbsp;(WrightEagle_2-vs-HELIOS2013_0) </li>
-<li><a href="https://www.youtube.com/watch?v=cDhSjSYPvdE">Final of RoboCup 2012</a>&nbsp;(HELIOS2012_4-vs-WrightEagle_1) </li>
-<li><a href="https://www.youtube.com/watch?v=leNDA5tzUfk">Final of RoboCup 2011</a>&nbsp;(WrightEagle_3-vs-HELIOS2011_2) </li>
-<li><a href="https://www.youtube.com/watch?v=BVWkndHk3AE">Final of RoboCup 2010</a>&nbsp;(HELIOS2010_2-vs-WrightEagle_1) </li>
-<li><a href="https://www.youtube.com/watch?v=Q18Wxs3Da-8">Final of RoboCup 2009</a>&nbsp;(HELIOS2009_1-vs-WrightEagle_2) </li>
-<li><a href="https://www.youtube.com/watch?v=w1c_8TWX8dY">Final of RoboCup 2008</a>&nbsp;(Brainstormers08_0_4-vs-WE2008_0_3)</li>
-<li><a href="https://www.youtube.com/watch?v=ceDDg_l6_J0">Final of RoboCup 2007</a>&nbsp;(Brainstormers07_3-vs-WE2007_0)</li>
-<li><a href="https://www.youtube.com/watch?v=FiFj0HQXaGw">Final of RoboCup 2005</a>&nbsp;(Brainstormers05_3-vs-WE2005_0)</li>
+<li><a href="https://www.youtube.com/watch?v=Ptzv9NF9opM">Final of RoboCup 2015</a> (HELIOS2015_0-vs-WrightEagle_3)</li>
+<li><a href="https://www.youtube.com/watch?v=kRIygFjlD_Q">Final of RoboCup 2014</a> (WrightEagle_3-vs-Gliders2014_2)</li>
+<li><a href="https://www.youtube.com/watch?v=BoWoIc4IrtI">Final of RoboCup 2013</a> (WrightEagle_2-vs-HELIOS2013_0)</li>
+<li><a href="https://www.youtube.com/watch?v=cDhSjSYPvdE">Final of RoboCup 2012</a> (HELIOS2012_4-vs-WrightEagle_1)</li>
+<li><a href="https://www.youtube.com/watch?v=leNDA5tzUfk">Final of RoboCup 2011</a> (WrightEagle_3-vs-HELIOS2011_2)</li>
+<li><a href="https://www.youtube.com/watch?v=BVWkndHk3AE">Final of RoboCup 2010</a> (HELIOS2010_2-vs-WrightEagle_1)</li>
+<li><a href="https://www.youtube.com/watch?v=Q18Wxs3Da-8">Final of RoboCup 2009</a> (HELIOS2009_1-vs-WrightEagle_2)</li>
+<li><a href="https://www.youtube.com/watch?v=w1c_8TWX8dY">Final of RoboCup 2008</a> (Brainstormers08_0_4-vs-WE2008_0_3)</li>
+<li><a href="https://www.youtube.com/watch?v=ceDDg_l6_J0">Final of RoboCup 2007</a> (Brainstormers07_3-vs-WE2007_0)</li>
+<li><a href="https://www.youtube.com/watch?v=FiFj0HQXaGw">Final of RoboCup 2005</a> (Brainstormers05_3-vs-WE2005_0)</li>
 </ul>
-<br>
-<br>
+
+<p><br>
+<br></p>
 
 <h2>Posters</h2>
+
 <ul>
 <li><a href="posters/poster13.pdf">Poster for RoboCup 2013</a></li>
 <li><a href="posters/poster12.pdf">Poster for RoboCup 2012</a></li>
 <li><a href="posters/poster11.pdf">Poster for RoboCup 2011</a></li>
 <li><a href="posters/poster10.pdf">Poster for RoboCup 2010</a></li>
 </ul>
-<br>
-<br>
+
+<p><br>
+<br></p>
 
 <h2>TDPs</h2>
+
 <ul>
-<li><a href="tdps/WrightEagle2015_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2015</a> </li>
-<li><a href="tdps/WrightEagle2014_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2014</a> </li>
-<li><a href="tdps/WrightEagle2013_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2013</a> </li>
-<li><a href="tdps/WrightEagle2012_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2012</a> </li>
-<li><a href="tdps/WrightEagle2011_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2011</a> </li>
-<li><a href="tdps/WrightEagle2010_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2010</a> </li>
-<li><a href="tdps/WrightEagle2009_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2009</a> </li>
-<li><a href="tdps/WrightEagle2008_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2008</a> </li>
-<li><a href="tdps/WrightEagle2007_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2007</a> </li>
-<li><a href="tdps/WrightEagle2006_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2006</a> </li>
-<li><a href="tdps/WrightEagle2005_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2005</a> </li>
-<li><a href="tdps/WrightEagle2004_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2004</a> </li>
-<li><a href="tdps/WrightEagle2002_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2002</a> </li>
+<li><a href="tdps/WrightEagle2015_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2015</a></li>
+<li><a href="tdps/WrightEagle2014_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2014</a></li>
+<li><a href="tdps/WrightEagle2013_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2013</a></li>
+<li><a href="tdps/WrightEagle2012_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2012</a></li>
+<li><a href="tdps/WrightEagle2011_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2011</a></li>
+<li><a href="tdps/WrightEagle2010_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2010</a></li>
+<li><a href="tdps/WrightEagle2009_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2009</a></li>
+<li><a href="tdps/WrightEagle2008_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2008</a></li>
+<li><a href="tdps/WrightEagle2007_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2007</a></li>
+<li><a href="tdps/WrightEagle2006_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2006</a></li>
+<li><a href="tdps/WrightEagle2005_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2005</a></li>
+<li><a href="tdps/WrightEagle2004_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2004</a></li>
+<li><a href="tdps/WrightEagle2002_2D_Soccer_Simulation_Team_Description_Paper.pdf">WrightEagle 2D Team Description Paper 2002</a></li>
 </ul>
-<br>
-<br>
+
+<p><br>
+<br></p>
 
 <h2>Binaries</h2>
+
 <ul>
 <li><a href="binaries/WrightEagle_stable_ubuntu_16.04.tar.gz">Stable Version (for Ubuntu 16.04)</a></li>
 <li><a href="binaries/WrightEagle_stable_ubuntu_14.04.tar.gz">Stable Version (for Ubuntu 14.04)</a></li>
@@ -111,22 +127,24 @@ soccer simulation as a typical problem of multi-agent systems, and our long-term
 <li><a href="binaries/WrightEagle_chinaopen09_release.tar.gz">Binary of RoboCup China Open 2009</a></li>
 <li><a href="binaries/WrightEagle_rc09_release.tar.gz">Binary of RoboCup 2009</a></li>
 </ul>
-<br>
-<br>
+
+<p><br>
+<br></p>
 
 <h2>Releases</h2>
+
 <ul>
 <li><a href="https://github.com/wrighteagle2d/wrighteaglebase">WrightEagleBASE at GitHub</a></li>
-<li><a href="releases/WrightEagleBASE-4.1.0.tar.gz">WrightEagleBASE-4.1.0</a>&nbsp;&nbsp;&nbsp;(Jul. 12, 2014)</li>
-<li><a href="releases/WrightEagleBASE-4.0.0.tar.gz">WrightEagleBASE-4.0.0</a>&nbsp;&nbsp;&nbsp;(Jan. 13, 2013)</li>
-<li><a href="releases/WrightEagleBASE-3.0.0.tar.gz">WrightEagleBASE-3.0.0</a>&nbsp;&nbsp;&nbsp;(Aug. 13, 2011)</li>
-<li><a href="releases/WrightEagleBASE-2.1.0.tar.gz">WrightEagleBASE-2.1.0</a>&nbsp;&nbsp;&nbsp;(Dec. 5, 2010)</li>
-<li><a href="releases/WrightEagleBASE-2.0.2.tar.gz">WrightEagleBASE-2.0.2</a>&nbsp;&nbsp;&nbsp;(Aug. 24, 2010)</li>
-<li><a href="releases/WrightEagleBASE-2.0.1.tar.gz">WrightEagleBASE-2.0.1</a>&nbsp;&nbsp;&nbsp;(Aug. 21, 2010)</li>
-<li><a href="releases/WrightEagleBASE-2.0.0.tar.gz">WrightEagleBASE-2.0.0</a>&nbsp;&nbsp;&nbsp;(Aug. 20, 2010)</li>
-<li><a href="releases/WrightEagleBASE-1.1.0.tar.gz">WrightEagleBASE-1.1.0</a>&nbsp;&nbsp;&nbsp;(Jan. 19, 2010)</li>
-<li><a href="releases/WrightEagleBASE-1.0.1.tar.gz">WrightEagleBASE-1.0.1</a>&nbsp;&nbsp;&nbsp;(Oct. 17, 2009)</li>
-<li><a href="releases/WrightEagleBASE-1.0.0.tar.gz">WrightEagleBASE-1.0.0</a>&nbsp;&nbsp;&nbsp;(Aug. 26, 2009)</li>
+<li><a href="releases/WrightEagleBASE-4.1.0.tar.gz">WrightEagleBASE-4.1.0</a>   (Jul. 12, 2014)</li>
+<li><a href="releases/WrightEagleBASE-4.0.0.tar.gz">WrightEagleBASE-4.0.0</a>   (Jan. 13, 2013)</li>
+<li><a href="releases/WrightEagleBASE-3.0.0.tar.gz">WrightEagleBASE-3.0.0</a>   (Aug. 13, 2011)</li>
+<li><a href="releases/WrightEagleBASE-2.1.0.tar.gz">WrightEagleBASE-2.1.0</a>   (Dec. 5, 2010)</li>
+<li><a href="releases/WrightEagleBASE-2.0.2.tar.gz">WrightEagleBASE-2.0.2</a>   (Aug. 24, 2010)</li>
+<li><a href="releases/WrightEagleBASE-2.0.1.tar.gz">WrightEagleBASE-2.0.1</a>   (Aug. 21, 2010)</li>
+<li><a href="releases/WrightEagleBASE-2.0.0.tar.gz">WrightEagleBASE-2.0.0</a>   (Aug. 20, 2010)</li>
+<li><a href="releases/WrightEagleBASE-1.1.0.tar.gz">WrightEagleBASE-1.1.0</a>   (Jan. 19, 2010)</li>
+<li><a href="releases/WrightEagleBASE-1.0.1.tar.gz">WrightEagleBASE-1.0.1</a>   (Oct. 17, 2009)</li>
+<li><a href="releases/WrightEagleBASE-1.0.0.tar.gz">WrightEagleBASE-1.0.0</a>   (Aug. 26, 2009)</li>
 </ul>
 <br>
 <div id="extra">

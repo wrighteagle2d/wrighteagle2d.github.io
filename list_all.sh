@@ -19,13 +19,16 @@
 
 set -o nounset                              # Treat unset variables as an error
 
-./list_robocup_tdps.sh
-
-for body in *_body.html; do
-    target="${body/_body/}"
-    tmp=`mktemp`
-    cat header.html $body footer.html > $tmp
-    mv $tmp $target
+for i in *_body.md; do
+    markdown "${i}" > "${i/.md/}.html"
 done
 
-pandoc -f html -t markdown index_body.html > README.md
+./list_robocup_tdps.sh
+
+for i in *_body.html; do
+    tmp=`mktemp`
+    cat header.html $i footer.html > $tmp
+    mv "${tmp}" "${i/_body/}"
+done
+
+cp index_body.md README.md
