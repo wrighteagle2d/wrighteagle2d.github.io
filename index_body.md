@@ -19,7 +19,9 @@ precisely, we model the RoboCup 2D game as a [Markov Decision
 Process](https://en.wikipedia.org/wiki/Markov_decision_process) (MDP),
 with the assumption that opponents and teammates are all rational. We
 further decompose the sequential decision-making problem within the
-resulting MDP into a hierarchy of subtasks. A hierarchical online
+resulting MDP into a hierarchy of subtasks, including attack, defense, 
+shoot, dribble, pass, intercept, position, mark, block, formation, etc. 
+A hierarchical online
 planning algorithm is then developed for the agent to do online planning
 in realtime, exploiting subtask-specific heuristic and evaluation
 functions. More information regarding our approach to RoboCup 2D can be
