@@ -76,18 +76,6 @@ Videos
 \
 
 
-Posters
--------
-
--   [Poster for RoboCup 2013](posters/poster13.pdf)
--   [Poster for RoboCup 2012](posters/poster12.pdf)
--   [Poster for RoboCup 2011](posters/poster11.pdf)
--   [Poster for RoboCup 2010](posters/poster10.pdf)
-
-\
-\
-
-
 TDPs
 ----
 
