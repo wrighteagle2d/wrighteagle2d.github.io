@@ -1,7 +1,7 @@
 BODY {
    /*margin: 2em;*/
    padding : 1cm 1cm 2cm 1cm;
-   font-size : 12px;
+   font-size : 13px;
    font-family : DejaVu Sans, DejaVu Serif, Lucida Serif, Lucida Sans, Verdana, Courier, helvetica, serif, sans-serif;
    background : white;
    padding: 3%; 
@@ -13,8 +13,7 @@ BODY {
 A {
   font-weight: bold;
   font-family: Verdana;
-  font-size: 12px;
-  /*color: #00008b;*/
+  font-size: 13px;
   color: blue;
   TEXT-DECORATION: none;
 }
@@ -54,7 +53,7 @@ pre {
       /*background-color: #e6e6e6;*/
       background-color: #233b5a;
       font-family : DejaVu Sans Mono, Monospace; 
-     font-size: 9pt;
+      font-size: 12pt;
 }
 
 pre.example {
@@ -126,7 +125,7 @@ h3 {
 
 h4 {
      color:#d04b44;
-     font-size: 14px;
+     font-size: 16px;
      padding: 2px;
      margin-top: 5px;
      }
@@ -134,7 +133,7 @@ h4 {
 H5 {
      color: #7b7b5a;
      text-align: left;
-     font-size: 12px;
+     font-size: 14px;
      }
 
 
@@ -179,7 +178,7 @@ td {
   BORDER: NONE; 
   OVERFLOW: hidden; 
   font-family: Helvetica, arial, sans-serif;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 th {
@@ -194,7 +193,7 @@ th {
   BORDER-BOTTOM: 1px solid; 
   OVERFLOW: hidden; 
   HEIGHT: 23px;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 table.results {
@@ -273,7 +272,7 @@ dt.contents:before {
 }
 
 dt.contents a {
-	font-size: 12px;
+	font-size: 13px;
 	color: #c00;
 	display: inline;
 }
@@ -294,7 +293,7 @@ dd dl dt.contents:before {
 
 dd dl dt.contents a {
 	font-weight: normal;
-	font-size: 11px;
+	font-size: 12px;
 	color: #007f1d;
 	display: block;
 }
@@ -405,13 +404,13 @@ color: navy;
 
 #head h2 {  
     color: green;
-    font-size: 14pt;
+    font-size: 16pt;
     font-weight: normal;
     margin-bottom: 0pt;
 }
 
 #head h3 {   
-	font-size: 13pt;    
+	font-size: 14pt;    
 	font-weight: normal;  
 }
 

@@ -15,8 +15,8 @@ as a typical problem of partially observable stochastic games (POSGs).
 In order to solve it online under realtime constraints, we take
 advantage of rationality assumption, hierarchical decomposition, state
 abstraction, expectimax tree search and heuristic evaluation. More
-precisely, we model the RoboCup 2D game as a [Markov Decision
-Process](https://en.wikipedia.org/wiki/Markov_decision_process) (MDP),
+precisely, we model the RoboCup 2D game as a [Markov decision
+process](https://en.wikipedia.org/wiki/Markov_decision_process) (MDP),
 with the assumption that opponents and teammates are all rational. We
 further decompose the sequential decision-making problem within the
 resulting MDP into a hierarchy of subtasks, including attack, defense, 
@@ -35,11 +35,11 @@ found in our recent
 Research
 --------
 
--   [Planning algorithms for (partially observable) Markov Decision
-    Processes (MDPs
+-   [Planning algorithms for (partially observable) Markov decision
+    processes (MDPs
     and POMDPs)](http://www.wrighteagle.org/en/research/planning.php)
--   [Decentralized partially observable Markov Decision
-    Processes (Dec-POMDPs)](http://www.wrighteagle.org/en/research/decpomdp.php)
+-   [Decentralized partially observable Markov decision
+    processes (Dec-POMDPs)](http://www.wrighteagle.org/en/research/decpomdp.php)
 -   [Principled solutions to large-scale decision-making via
     hierarchical
     decomposition](http://www.wrighteagle.org/en/research/decisionmaking.php)
