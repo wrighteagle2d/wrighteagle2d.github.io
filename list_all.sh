@@ -31,4 +31,3 @@ for i in *_body.html; do
     mv "${tmp}" "${i/_body/}"
 done
 
-cp index_body.md README.md
