@@ -255,7 +255,7 @@ background : #a7cc44;
 margin : 0;
 }
 #menu li a.current {
-background : #616161 url(trcorner.gif) no-repeat top right;
+background : #616161 /*url(trcorner.gif)*/ no-repeat top right;
 color : #fff;
 }
 
