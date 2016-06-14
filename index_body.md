@@ -170,6 +170,6 @@ Releases
     19, 2010)
 -   [WrightEagleBASE-1.0.1](releases/WrightEagleBASE-1.0.1.tar.gz)   (Oct.
     17, 2009)
--   [WrightEagleBASE-1.0.0](releases/WrightEagleBASE-1.0.0.tar.gz)   (Aug.
+-   [WrightEagleBASE-1.0.0](releases/WrightagleBASE-1.0.0.tar.gz)   (Aug.
     26, 2009)
 
