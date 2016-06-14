@@ -1,0 +1,13 @@
+os: linux
+sudo: required
+dist: trusty
+before_script:
+    - sudo apt-get update -qq
+    - sudo apt-get install -y linkchecker
+script: linkchecker --ignore-url=\!wrighteagle2d\.github\.io http://wrighteagle2d.github.io/
+notifications:
+    email:
+        recipients: aijunbai@gmail.com
+        on_success: change
+        on_failure: always
+
