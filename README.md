@@ -18,11 +18,12 @@ We model [RoboCup 2D soccer
 simulation](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League)
 as a typical problem of partially observable stochastic games (POSGs).
 In order to solve it online under realtime constraints, we take
-advantage of rationality assumption, hierarchical decomposition, state
-abstraction, expectimax tree search and heuristic evaluation. More
+advantage of rationality assumption, [hierarchical decomposition](https://github.com/aijunbai/maxq-op), state
+abstraction, expectimax tree search, [Monte Carlo simulation](https://github.com/aijunbai/thompson-sampling) 
+and heuristic evaluation. More
 precisely, we model the RoboCup 2D game as a [Markov decision
 process](https://en.wikipedia.org/wiki/Markov_decision_process) (MDP),
-with the assumption that opponents and teammates are all rational. We
+assuming that opponents and teammates are all rational. We
 further decompose the sequential decision-making problem within the
 resulting MDP into a hierarchy of subtasks, including attack, defense, 
 shoot, dribble, pass, intercept, position, mark, block, formation, etc. 
@@ -40,14 +41,9 @@ found in our recent
 Research
 --------
 
--   [Planning algorithms for (partially observable) Markov decision
-    processes (MDPs
-    and POMDPs)](http://www.wrighteagle.org/en/research/planning.php)
--   [Decentralized partially observable Markov decision
-    processes (Dec-POMDPs)](http://www.wrighteagle.org/en/research/decpomdp.php)
--   [Principled solutions to large-scale decision-making via
-    hierarchical
-    decomposition](http://www.wrighteagle.org/en/research/decisionmaking.php)
+-   [Hierarchical planning for large Markov decision processes (MDPs)](http://www.wrighteagle.org/en/research/decisionmaking.php)
+-   [Online planning for (partially observable) Markov decision processes (MDPs and POMDPs)](http://www.wrighteagle.org/en/research/planning.php)
+-   [Approximate planning for decentralized partially observable Markov decision processes (Dec-POMDPs)](http://www.wrighteagle.org/en/research/decpomdp.php)
 
 \
 \
