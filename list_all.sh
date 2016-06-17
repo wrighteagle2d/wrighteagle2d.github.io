@@ -26,8 +26,9 @@ done
 ./list_robocup_tdps.sh
 
 for i in *_body.html; do
-    tmp=`mktemp`
-    cat header.html $i footer.html > $tmp
+    tmp="`mktemp`"
+    cat header.html $i footer.html > ${tmp}
+    sed -i 's|href="http|target="_blank" href="http|g' ${tmp}
     mv "${tmp}" "${i/_body/}"
 done
 
