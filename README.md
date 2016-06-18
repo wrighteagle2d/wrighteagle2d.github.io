@@ -53,25 +53,27 @@ Videos
 ------
 
 -   [Final of RoboCup
-    2015](https://www.youtube.com/watch?v=Ptzv9NF9opM) (HELIOS2015\_0-vs-WrightEagle\_3)
+    2015](https://www.youtube.com/watch?v=Ptzv9NF9opM) (HELIOS2015\_0-vs-**WrightEagle**\_3) ***[Champion!]***
 -   [Final of RoboCup
-    2014](https://www.youtube.com/watch?v=kRIygFjlD_Q) (WrightEagle\_3-vs-Gliders2014\_2)
+    2014](https://www.youtube.com/watch?v=kRIygFjlD_Q) (**WrightEagle**\_3-vs-Gliders2014\_2) ***[Champion!]***
 -   [Final of RoboCup
-    2013](https://www.youtube.com/watch?v=BoWoIc4IrtI) (WrightEagle\_2-vs-HELIOS2013\_0)
+    2013](https://www.youtube.com/watch?v=BoWoIc4IrtI) (**WrightEagle**\_2-vs-HELIOS2013\_0) ***[Champion!]***
 -   [Final of RoboCup
-    2012](https://www.youtube.com/watch?v=cDhSjSYPvdE) (HELIOS2012\_4-vs-WrightEagle\_1)
+    2012](https://www.youtube.com/watch?v=cDhSjSYPvdE) (**HELIOS2012**\_4-vs-WrightEagle\_1)
 -   [Final of RoboCup
-    2011](https://www.youtube.com/watch?v=leNDA5tzUfk) (WrightEagle\_3-vs-HELIOS2011\_2)
+    2011](https://www.youtube.com/watch?v=leNDA5tzUfk) (**WrightEagle**\_3-vs-HELIOS2011\_2) ***[Champion!]***
 -   [Final of RoboCup
-    2010](https://www.youtube.com/watch?v=BVWkndHk3AE) (HELIOS2010\_2-vs-WrightEagle\_1)
+    2010](https://www.youtube.com/watch?v=BVWkndHk3AE) (**HELIOS2010**\_2-vs-WrightEagle\_1)
 -   [Final of RoboCup
-    2009](https://www.youtube.com/watch?v=Q18Wxs3Da-8) (HELIOS2009\_1-vs-WrightEagle\_2)
+    2009](https://www.youtube.com/watch?v=Q18Wxs3Da-8) (HELIOS2009\_1-vs-**WrightEagle**\_2) ***[Champion!]***
 -   [Final of RoboCup
-    2008](https://www.youtube.com/watch?v=w1c_8TWX8dY) (Brainstormers08\_0\_4-vs-WE2008\_0\_3)
+    2008](https://www.youtube.com/watch?v=w1c_8TWX8dY) (**Brainstormers08**\_0\_4-vs-WE2008\_0\_3)
 -   [Final of RoboCup
-    2007](https://www.youtube.com/watch?v=ceDDg_l6_J0) (Brainstormers07\_3-vs-WE2007\_0)
+    2007](https://www.youtube.com/watch?v=ceDDg_l6_J0) (**Brainstormers07**\_3-vs-WE2007\_0)
 -   [Final of RoboCup
-    2005](https://www.youtube.com/watch?v=FiFj0HQXaGw) (Brainstormers05\_3-vs-WE2005\_0)
+    2006](https://www.youtube.com/watch?v=FiFj0HQXaGw) (Brainstormers06\_1-vs-**WE2006**\_2) ***[Champion!]***
+-   [Final of RoboCup
+    2005](https://www.youtube.com/watch?v=FiFj0HQXaGw) (**Brainstormers05**\_3-vs-WE2005\_0)
 
 \
 \

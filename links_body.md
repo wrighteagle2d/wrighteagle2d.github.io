@@ -27,6 +27,7 @@ Other Links
     WIKI](http://sourceforge.net/apps/mediawiki/sserver/index.php?title=Main_Page)
 -   [Robot Competition Committee of Chinese Automation
     Association](http://www.rcccaa.org/)
+-   [RoboCup Simulation League Historical Archive](http://chaosscripting.net/files/competitions/RoboCup/)
 
 \
 \
