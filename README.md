@@ -18,8 +18,8 @@ We model [RoboCup 2D soccer
 simulation](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League)
 as a typical problem of partially observable stochastic games (POSGs).
 In order to solve it online under realtime constraints, we take
-advantage of rationality assumption, [hierarchical decomposition](https://github.com/aijunbai/maxq-op), state
-abstraction, expectimax tree search, [Monte Carlo simulation](https://github.com/aijunbai/thompson-sampling) 
+advantage of rationality assumption, hierarchical decomposition, state
+abstraction, expectimax tree search, Monte Carlo simulation
 and heuristic evaluation. More
 precisely, we model the RoboCup 2D game as a [Markov decision
 process](https://en.wikipedia.org/wiki/Markov_decision_process) (MDP),
