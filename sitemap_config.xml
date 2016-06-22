@@ -199,5 +199,6 @@
   <filter action="drop" type="wildcard" pattern="*Easter*" />
   <filter action="drop" type="wildcard" pattern="*/help/help/*" />
   <filter action="drop" type="wildcard" pattern="*/press/*.gif" />
+  <filter action="drop" type="wildcard" pattern="*.md" />
   
 </site>
