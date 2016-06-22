@@ -6,7 +6,7 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://wrighteagle2d.github.io/</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -16,7 +16,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/README.md</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -121,12 +121,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contact.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contact_body.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -136,7 +136,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contests.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -161,12 +161,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/index.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/index_body.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -181,12 +181,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/links.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/links_body.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -541,7 +541,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/members.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -566,12 +566,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/publications.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/publications_body.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -641,7 +641,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/</loc>
-  <lastmod>2016-06-22T00:26:27Z</lastmod>
+  <lastmod>2016-06-22T03:44:41Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -752,6 +752,86 @@
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Sun-Task_Decomposition_Agent_Decision-Making.pdf</loc>
   <lastmod>2016-06-21T23:38:59Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_AUA2D.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Algaurizim.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Amordad.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Armik.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_CMC.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Caspian_2013.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Damash.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Daredevils.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Iran-2D.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Mars2013.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Mythras.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_NEXUS2D.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_RCMasters.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Riton.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Sepanta.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/TDP_Soccereus.pdf</loc>
+  <lastmod>2013-02-19T03:13:34Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2341,12 +2421,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup_tdps.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup_tdps_body.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2451,12 +2531,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/training.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/training_body.html</loc>
-  <lastmod>2016-06-22T02:06:48Z</lastmod>
+  <lastmod>2016-06-22T03:44:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
