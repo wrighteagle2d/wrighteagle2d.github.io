@@ -6,7 +6,7 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://wrighteagle2d.github.io/</loc>
-  <lastmod>2016-06-22T18:12:48Z</lastmod>
+  <lastmod>2016-06-22T18:18:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -116,12 +116,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contact.html</loc>
-  <lastmod>2016-06-22T18:12:48Z</lastmod>
+  <lastmod>2016-06-22T18:18:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contests.html</loc>
-  <lastmod>2016-06-22T18:12:48Z</lastmod>
+  <lastmod>2016-06-22T18:18:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -131,7 +131,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/index.html</loc>
-  <lastmod>2016-06-22T18:12:48Z</lastmod>
+  <lastmod>2016-06-22T18:18:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -141,7 +141,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/links.html</loc>
-  <lastmod>2016-06-22T18:12:48Z</lastmod>
+  <lastmod>2016-06-22T18:18:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -486,7 +486,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/members.html</loc>
-  <lastmod>2016-06-22T18:12:48Z</lastmod>
+  <lastmod>2016-06-22T18:18:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -506,7 +506,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/publications.html</loc>
-  <lastmod>2016-06-22T18:12:48Z</lastmod>
+  <lastmod>2016-06-22T18:18:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -571,7 +571,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/</loc>
-  <lastmod>2016-06-22T18:07:11Z</lastmod>
+  <lastmod>2016-06-22T18:18:11Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -645,7 +645,7 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/Gup-Markov_Theory_based_Agent_Decision-Making.pdf</loc>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/Guo-Markov_Theory_based_Agent_Decision-Making.pdf</loc>
   <lastmod>2016-06-21T20:04:48Z</lastmod>
   <priority>0.5000</priority>
  </url>
@@ -2271,7 +2271,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup_tdps.html</loc>
-  <lastmod>2016-06-22T18:12:48Z</lastmod>
+  <lastmod>2016-06-22T18:18:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2371,7 +2371,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/training.html</loc>
-  <lastmod>2016-06-22T18:12:48Z</lastmod>
+  <lastmod>2016-06-22T18:18:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
