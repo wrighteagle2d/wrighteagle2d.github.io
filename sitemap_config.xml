@@ -201,7 +201,7 @@
   <filter action="drop" type="wildcard" pattern="*/press/*.gif" />
   <filter action="drop" type="wildcard" pattern="*.md" />
   <filter action="drop" type="wildcard" pattern="*_body.html" />
-  <filter action="drop" type="wildcard" pattern="header.html" />
-  <filter action="drop" type="wildcard" pattern="footer.html" />
+  <filter action="drop" type="wildcard" pattern="*header.html" />
+  <filter action="drop" type="wildcard" pattern="*footer.html" />
   
 </site>
