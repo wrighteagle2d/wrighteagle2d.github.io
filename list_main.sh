@@ -23,8 +23,6 @@ for i in *_body.md; do
     pandoc -f markdown -t html "${i}" > "${i/.md/}.html"
 done
 
-./list_robocup_tdps.sh
-
 for i in *_body.html; do
     tmp="`mktemp`"
     cat header.html $i footer.html > ${tmp}
