@@ -6,7 +6,7 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://wrighteagle2d.github.io/</loc>
-  <lastmod>2016-06-22T18:18:14Z</lastmod>
+  <lastmod>2016-06-24T17:23:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -116,12 +116,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contact.html</loc>
-  <lastmod>2016-06-22T18:18:14Z</lastmod>
+  <lastmod>2016-06-24T17:23:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contests.html</loc>
-  <lastmod>2016-06-22T18:18:14Z</lastmod>
+  <lastmod>2016-06-24T17:23:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -131,7 +131,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/index.html</loc>
-  <lastmod>2016-06-22T18:18:14Z</lastmod>
+  <lastmod>2016-06-24T17:23:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -141,7 +141,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/links.html</loc>
-  <lastmod>2016-06-22T18:18:14Z</lastmod>
+  <lastmod>2016-06-24T17:23:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -486,7 +486,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/members.html</loc>
-  <lastmod>2016-06-22T18:18:14Z</lastmod>
+  <lastmod>2016-06-24T17:23:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -506,7 +506,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/publications.html</loc>
-  <lastmod>2016-06-22T18:18:14Z</lastmod>
+  <lastmod>2016-06-24T17:23:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -571,7 +571,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/</loc>
-  <lastmod>2016-06-22T18:18:11Z</lastmod>
+  <lastmod>2016-06-24T17:22:59Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -602,6 +602,11 @@
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Budden,_Prokopenko_Improved_Particle_Filtering_for_Pseudo-Uniform_Belief_Distributions_in_Robot_Localisation.pdf</loc>
   <lastmod>2016-06-09T07:13:31Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/Budden-Improved_Particle_Filtering_for_Pseudo-Uniform_Belief_Distributions_in_Robot_Localisation.pdf</loc>
+  <lastmod>2016-06-24T17:07:04Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -645,8 +650,18 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/Gabel-A_Case_Study_on_Improving_Defense_Behavior_in_Soccer_Simulation_2D_The_NeuroHassle_Approach.pdf</loc>
+  <lastmod>2016-06-24T17:07:17Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Guo-Markov_Theory_based_Agent_Decision-Making.pdf</loc>
   <lastmod>2016-06-21T20:04:48Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/Ivan-An_Autonomous_Decision_Making_Framework_for_a_Multi-Agent_System_in_an_Ambient_with_Limited_Communication_and_Unreliable_Vision.pdf</loc>
+  <lastmod>2016-06-24T17:12:06Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -655,13 +670,28 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/Khashabi-An_Introduction_to_RoboCup_and_Soccer_Simulation_2D.pdf</loc>
+  <lastmod>2016-06-24T17:06:23Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Li-RoboCup_Simulation_2D_Experimental_Platform.pdf</loc>
   <lastmod>2016-06-21T20:06:28Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/Moore-Gliders2012:_Development_and_Competition_Results.pdf</loc>
+  <lastmod>2016-06-24T17:07:55Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Nycander,_Se_2013_RoboCup_2D_Soccer_Simulation_League_An_analysis_of_the_team_WrightEagle_and_the_creation_of_a_basic_team.pdf</loc>
   <lastmod>2016-06-09T07:13:31Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/OC55_Automatic_Extraction_of_Goal-Scoring_FA_PHA_NL_LPR.pdf</loc>
+  <lastmod>2016-06-24T17:10:53Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2271,7 +2301,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup_tdps.html</loc>
-  <lastmod>2016-06-22T18:18:14Z</lastmod>
+  <lastmod>2016-06-24T17:23:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2371,7 +2401,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/training.html</loc>
-  <lastmod>2016-06-22T18:18:14Z</lastmod>
+  <lastmod>2016-06-24T17:23:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
