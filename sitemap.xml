@@ -6,7 +6,7 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://wrighteagle2d.github.io/</loc>
-  <lastmod>2016-06-24T17:23:09Z</lastmod>
+  <lastmod>2016-06-25T00:19:41Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -116,12 +116,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contact.html</loc>
-  <lastmod>2016-06-24T17:23:09Z</lastmod>
+  <lastmod>2016-06-25T00:19:41Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contests.html</loc>
-  <lastmod>2016-06-24T17:23:09Z</lastmod>
+  <lastmod>2016-06-25T00:19:41Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -131,7 +131,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/index.html</loc>
-  <lastmod>2016-06-24T17:23:09Z</lastmod>
+  <lastmod>2016-06-25T00:19:41Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -141,7 +141,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/links.html</loc>
-  <lastmod>2016-06-24T17:23:09Z</lastmod>
+  <lastmod>2016-06-25T00:19:41Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -486,7 +486,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/members.html</loc>
-  <lastmod>2016-06-24T17:23:09Z</lastmod>
+  <lastmod>2016-06-25T00:19:41Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -506,7 +506,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/publications.html</loc>
-  <lastmod>2016-06-24T17:23:09Z</lastmod>
+  <lastmod>2016-06-25T00:19:41Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2301,7 +2301,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup_tdps.html</loc>
-  <lastmod>2016-06-24T17:23:09Z</lastmod>
+  <lastmod>2016-06-25T00:19:41Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2401,7 +2401,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/training.html</loc>
-  <lastmod>2016-06-24T17:23:09Z</lastmod>
+  <lastmod>2016-06-25T00:19:41Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
