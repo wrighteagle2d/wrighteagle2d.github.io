@@ -42,6 +42,10 @@ for i in *_body.md; do
     pandoc -f markdown -t html "${i}" > "${i/.md/}.html"
 done
 
+tmp="`mktemp`"
+cat "contests_body.html" "contests_body_table.html" > "${tmp}"
+mv "${tmp}" "contests_body.html"
+
 for i in *_body.html; do
     tmp="`mktemp`"
     cat header.html $i footer.html > ${tmp}
