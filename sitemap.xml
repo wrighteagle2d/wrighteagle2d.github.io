@@ -6,7 +6,7 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://wrighteagle2d.github.io/</loc>
-  <lastmod>2016-06-25T00:19:41Z</lastmod>
+  <lastmod>2016-06-26T03:37:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -116,12 +116,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contact.html</loc>
-  <lastmod>2016-06-25T00:19:41Z</lastmod>
+  <lastmod>2016-06-26T03:37:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contests.html</loc>
-  <lastmod>2016-06-25T00:19:41Z</lastmod>
+  <lastmod>2016-06-26T03:37:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -131,7 +131,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/index.html</loc>
-  <lastmod>2016-06-25T00:19:41Z</lastmod>
+  <lastmod>2016-06-26T03:37:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -141,7 +141,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/links.html</loc>
-  <lastmod>2016-06-25T00:19:41Z</lastmod>
+  <lastmod>2016-06-26T03:37:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -486,7 +486,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/members.html</loc>
-  <lastmod>2016-06-25T00:19:41Z</lastmod>
+  <lastmod>2016-06-26T03:37:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -506,7 +506,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/publications.html</loc>
-  <lastmod>2016-06-25T00:19:41Z</lastmod>
+  <lastmod>2016-06-26T03:37:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -571,7 +571,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/</loc>
-  <lastmod>2016-06-24T17:22:59Z</lastmod>
+  <lastmod>2016-06-26T03:36:50Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -652,6 +652,16 @@
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Gabel-A_Case_Study_on_Improving_Defense_Behavior_in_Soccer_Simulation_2D_The_NeuroHassle_Approach.pdf</loc>
   <lastmod>2016-06-24T17:07:17Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/Gabel-I_Know_What_You%E2%80%99re_Doing:_A_Case_Study_on_Case-Based_Opponent_Modeling_and_Low-Level_Action_Prediction.pdf</loc>
+  <lastmod>2016-06-26T03:34:32Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/Gabel-Progress_in_RoboCup_Revisited:_The_State_of_Soccer_Simulation_2D.pdf</loc>
+  <lastmod>2016-06-26T03:34:27Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2301,7 +2311,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup_tdps.html</loc>
-  <lastmod>2016-06-25T00:19:41Z</lastmod>
+  <lastmod>2016-06-26T03:37:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2401,7 +2411,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/training.html</loc>
-  <lastmod>2016-06-25T00:19:41Z</lastmod>
+  <lastmod>2016-06-26T03:37:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
