@@ -34,6 +34,11 @@ functions. More information regarding our approach to RoboCup 2D can be
 found in our recent
 [publications](http://wrighteagle2d.github.io/publications.html).
 
+A video from RoboCup 2015 final -- HELIOS2015 v.s. WrightEagle2015 -- is as follows.
+
+[![RoboCup 2015 Final Video](materials/robocup2015final.gif)](http://www.youtube.com/watch?v=Ptzv9NF9opM "RoboCup2015 Soccer Simulation 2D Final")
+
+
 \
 \
 
