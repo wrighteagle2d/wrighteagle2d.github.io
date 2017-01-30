@@ -4,7 +4,7 @@ Introduction
 [WrightEagle 2D Soccer Simulation Team](http://www.wrighteagle.org/2d/)
 is a branch of [WrightEagle](http://www.wrighteagle.org/) Robocup Team,
 established in 1998 by the [Multi-Agent Systems
-Lab.](http://wrighteagle.org), [University of Science and Technology of
+Lab.](http://www.wrighteagle.org/), [University of Science and Technology of
 China](http://www.ustc.edu.cn) (USTC). We have participated in annual
 competitions of RoboCup since 1999 and have won 6 ***world champions***
 and 5 runners-up of RoboCup since 2005.
