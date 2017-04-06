@@ -6,7 +6,7 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://wrighteagle2d.github.io/</loc>
-  <lastmod>2017-04-06T21:18:44Z</lastmod>
+  <lastmod>2017-04-06T21:46:40Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -116,12 +116,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contact.html</loc>
-  <lastmod>2017-04-06T21:18:44Z</lastmod>
+  <lastmod>2017-04-06T21:46:40Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contests.html</loc>
-  <lastmod>2017-04-06T21:18:44Z</lastmod>
+  <lastmod>2017-04-06T21:46:40Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -136,7 +136,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/index.html</loc>
-  <lastmod>2017-04-06T21:18:44Z</lastmod>
+  <lastmod>2017-04-06T21:46:40Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -146,7 +146,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/links.html</loc>
-  <lastmod>2017-04-06T21:18:44Z</lastmod>
+  <lastmod>2017-04-06T21:46:40Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -496,7 +496,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/members.html</loc>
-  <lastmod>2017-04-06T21:18:44Z</lastmod>
+  <lastmod>2017-04-06T21:46:40Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -516,7 +516,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/publications.html</loc>
-  <lastmod>2017-04-06T21:18:44Z</lastmod>
+  <lastmod>2017-04-06T21:46:40Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -581,22 +581,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/AAAI14-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/AAMAS12-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/ARMS12-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
+  <lastmod>2017-04-06T21:46:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -655,11 +640,6 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/CoRR16-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Cu%C3%A9llar_2012_Use_of_Graphs_with_Bayesian_Networks_and_Q-Learning_for_Pass-Into-Space_Decision_Making_in_RoboCup_Soccer_Simulation_2.pdf</loc>
   <lastmod>2017-03-24T17:36:17Z</lastmod>
   <priority>0.5000</priority>
@@ -700,31 +680,6 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/ICAPS14-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/ICAPS15-Zhang.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/IJCAI13-Lu.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/IJCAI16-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/IJCAI16-Bai_poster.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Ivan-An_Autonomous_Decision_Making_Framework_for_a_Multi-Agent_System_in_an_Ambient_with_Limited_Communication_and_Unreliable_Vision.pdf</loc>
   <lastmod>2017-03-24T17:36:17Z</lastmod>
   <priority>0.5000</priority>
@@ -740,16 +695,6 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/LNAI11-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/LNAI12-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Li-RoboCup_Simulation_2D_Experimental_Platform.pdf</loc>
   <lastmod>2017-03-24T17:36:17Z</lastmod>
   <priority>0.5000</priority>
@@ -757,16 +702,6 @@
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Moore-Gliders2012:_Development_and_Competition_Results.pdf</loc>
   <lastmod>2017-03-24T17:36:17Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/NIPS13-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/NIPS13-Bai_poster.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -785,11 +720,6 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/RoboCup11-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Shi-Markov_Theory_based_Multi-Agent_Decision-Making.pdf</loc>
   <lastmod>2017-03-24T17:36:17Z</lastmod>
   <priority>0.5000</priority>
@@ -805,83 +735,13 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/SoCS15-Zhang.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/TIST15-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/TIST15-Bai_app.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/UCB17-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
+  <lastmod>2017-04-06T21:45:52Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/UCB17-Bai2.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/USTC07-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/USTC09-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/USTC09-BaiTai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/USTC11-Wu.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/USTC14-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/WrightEagle2008_2D_Soccer_Simulation_Team_Description_Paper.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/WrightEagle2009_2D_Soccer_Simulation_Team_Description_Paper.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/WrightEagle2010_2D_Soccer_Simulation_Team_Description_Paper.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/WrightEagle2011_2D_Soccer_Simulation_Team_Description_Paper.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/WrightEagle2012_2D_Soccer_Simulation_Team_Description_Paper.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/WrightEagle2013_2D_Soccer_Simulation_Team_Description_Paper.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
+  <lastmod>2017-04-06T21:45:52Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -892,16 +752,6 @@
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Zhao-RoboCup_Simulation_2D_System.pdf</loc>
   <lastmod>2017-03-24T17:36:17Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/concluding2007-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/0_related/concluding2009-Bai.pdf</loc>
-  <lastmod>2017-04-06T21:16:43Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2581,7 +2431,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup_tdps.html</loc>
-  <lastmod>2017-04-06T21:18:44Z</lastmod>
+  <lastmod>2017-04-06T21:46:40Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2681,7 +2531,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/training.html</loc>
-  <lastmod>2017-04-06T21:18:44Z</lastmod>
+  <lastmod>2017-04-06T21:46:40Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
