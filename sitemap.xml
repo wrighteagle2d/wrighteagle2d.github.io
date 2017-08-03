@@ -6,7 +6,7 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://wrighteagle2d.github.io/</loc>
-  <lastmod>2017-08-03T17:22:23Z</lastmod>
+  <lastmod>2017-08-03T17:24:46Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -116,12 +116,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contact.html</loc>
-  <lastmod>2017-08-03T17:22:22Z</lastmod>
+  <lastmod>2017-08-03T17:24:45Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contests.html</loc>
-  <lastmod>2017-08-03T17:22:22Z</lastmod>
+  <lastmod>2017-08-03T17:24:45Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -136,7 +136,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/index.html</loc>
-  <lastmod>2017-08-03T17:22:22Z</lastmod>
+  <lastmod>2017-08-03T17:24:46Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -146,7 +146,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/links.html</loc>
-  <lastmod>2017-08-03T17:22:23Z</lastmod>
+  <lastmod>2017-08-03T17:24:46Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -496,7 +496,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/members.html</loc>
-  <lastmod>2017-08-03T17:22:23Z</lastmod>
+  <lastmod>2017-08-03T17:24:46Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -516,7 +516,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/publications.html</loc>
-  <lastmod>2017-08-03T17:22:23Z</lastmod>
+  <lastmod>2017-08-03T17:24:46Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -581,7 +581,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/</loc>
-  <lastmod>2017-07-10T12:11:31Z</lastmod>
+  <lastmod>2017-08-03T17:24:33Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -702,6 +702,11 @@
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/0_related/Obst_2002_Simulation_League_League_Summary.pdf</loc>
   <lastmod>2016-06-09T07:13:31Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/robocup/0_related/RoboCup_Symposium_2017_paper_58.pdf</loc>
+  <lastmod>2017-08-03T17:03:50Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2401,12 +2406,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup/2017/</loc>
-  <lastmod>2017-08-03T17:03:50Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>https://wrighteagle2d.github.io/robocup/2017/RoboCup_Symposium_2017_paper_58.pdf</loc>
-  <lastmod>2017-08-03T17:03:50Z</lastmod>
+  <lastmod>2017-08-03T17:24:33Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2496,7 +2496,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup_tdps.html</loc>
-  <lastmod>2017-08-03T17:22:23Z</lastmod>
+  <lastmod>2017-08-03T17:24:46Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2596,7 +2596,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/training.html</loc>
-  <lastmod>2017-08-03T17:22:23Z</lastmod>
+  <lastmod>2017-08-03T17:24:46Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
