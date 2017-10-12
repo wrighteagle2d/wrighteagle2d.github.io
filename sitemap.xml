@@ -6,7 +6,12 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://wrighteagle2d.github.io/</loc>
-  <lastmod>2017-08-03T17:28:21Z</lastmod>
+  <lastmod>2017-10-12T06:42:10Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://wrighteagle2d.github.io/BingSiteAuth.xml</loc>
+  <lastmod>2017-10-12T06:40:17Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -116,12 +121,12 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contact.html</loc>
-  <lastmod>2017-08-03T17:28:20Z</lastmod>
+  <lastmod>2017-10-12T06:42:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/contests.html</loc>
-  <lastmod>2017-08-03T17:28:20Z</lastmod>
+  <lastmod>2017-10-12T06:42:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -136,7 +141,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/index.html</loc>
-  <lastmod>2017-08-03T17:28:21Z</lastmod>
+  <lastmod>2017-10-12T06:42:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -146,7 +151,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/links.html</loc>
-  <lastmod>2017-08-03T17:28:21Z</lastmod>
+  <lastmod>2017-10-12T06:42:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -496,7 +501,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/members.html</loc>
-  <lastmod>2017-08-03T17:28:21Z</lastmod>
+  <lastmod>2017-10-12T06:42:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -516,7 +521,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/publications.html</loc>
-  <lastmod>2017-08-03T17:28:21Z</lastmod>
+  <lastmod>2017-10-12T06:42:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2506,7 +2511,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/robocup_tdps.html</loc>
-  <lastmod>2017-08-03T17:28:21Z</lastmod>
+  <lastmod>2017-10-12T06:42:10Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -2606,7 +2611,7 @@
  </url>
  <url>
   <loc>https://wrighteagle2d.github.io/training.html</loc>
-  <lastmod>2017-08-03T17:28:21Z</lastmod>
+  <lastmod>2017-10-12T06:42:10Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
