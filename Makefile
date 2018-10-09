@@ -1,7 +1,7 @@
 all:
-	./list.sh
+	./bin/list.sh
 	cat status.md index_body.md > README.md
-	google-sitemapgen --config=sitemap_config.xml
+	python2 ./bin/google-sitemapgen --config=sitemap_config.xml
 
 sync: all
 	git add .
