@@ -1,10 +1,10 @@
 Introduction
 ------------
 
-[WrightEagle 2D Soccer Simulation Team](http://www.wrighteagle.org/2d/)
-is a branch of [WrightEagle](http://www.wrighteagle.org/) Robocup Team,
+[WrightEagle 2D Soccer Simulation Team](http://ai.ustc.edu.cn/2d/)
+is a branch of [WrightEagle](http://ai.ustc.edu.cn/) Robocup Team,
 established in 1998 by the [Multi-Agent Systems
-Lab.](http://www.wrighteagle.org/), [University of Science and Technology of
+Lab.](http://ai.ustc.edu.cn/), [University of Science and Technology of
 China](http://www.ustc.edu.cn) (USTC). We have participated in annual
 competitions of RoboCup since 1999 and have won 6 ***world champions***
 and 5 runners-up of RoboCup since 2005.
@@ -41,9 +41,9 @@ A video from RoboCup 2015 final -- HELIOS2015 v.s. WrightEagle2015 -- is as foll
 Research
 --------
 
--   [Hierarchical planning for large Markov decision processes (MDPs)](http://www.wrighteagle.org/en/research/decisionmaking.php)
--   [Online planning for (partially observable) Markov decision processes (MDPs and POMDPs)](http://www.wrighteagle.org/en/research/planning.php)
--   [Approximate planning for decentralized partially observable Markov decision processes (Dec-POMDPs)](http://www.wrighteagle.org/en/research/decpomdp.php)
+-   [Hierarchical planning for large Markov decision processes (MDPs)](http://ai.ustc.edu.cn/en/research/decisionmaking.php)
+-   [Online planning for (partially observable) Markov decision processes (MDPs and POMDPs)](http://ai.ustc.edu.cn/en/research/planning.php)
+-   [Approximate planning for decentralized partially observable Markov decision processes (Dec-POMDPs)](http://ai.ustc.edu.cn/en/research/decpomdp.php)
 
 \
 \

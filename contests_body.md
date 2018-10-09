@@ -13,13 +13,13 @@ Latest Events
 Past Events
 -----------
 
--   [RoboCup China Open 2011](http://www.wrighteagle.org/rco/rco11/) | [2D Qualification](http://www.wrighteagle.org/rco/rco11/2d/qualification.html) | [Results](http://www.wrighteagle.org/rco/rco11/2d/results.html) Aug 23-25, 2011.
+-   [RoboCup China Open 2011](http://ai.ustc.edu.cn/rco/rco11/) | [2D Qualification](http://ai.ustc.edu.cn/rco/rco11/2d/qualification.html) | [Results](http://ai.ustc.edu.cn/rco/rco11/2d/results.html) Aug 23-25, 2011.
 -   [RoboCup 2011](http://www.robocup2011.org/) | [Results](http://sourceforge.net/apps/mediawiki/sserver/index.php?title=RoboCup2011/Competition)   Jul 5-11, 2011.
--   [RoboCup China Open 2010](http://www.hengruitongze.com/index.asp) | [Results](http://wrighteagle.org/rco/rco10/2d/results.html)   Jul 18-20, 2010.
+-   [RoboCup China Open 2010](http://www.hengruitongze.com/index.asp) | [Results](http://ai.ustc.edu.cn/rco/rco10/2d/results.html)   Jul 18-20, 2010.
 -   [RoboCup 2010](http://robocup2010.org/) | [Results](http://julia.ist.tugraz.at/robocup2010/)   Jun 19-25, 2010.
 -   [RoboCup German Open 2010](http://www.robocup-german-open.de)   Apr 15-18, 2010.
 -   [RoboCup China Open 2009](http://www.hi-robot.com/rco2009/) | [2D
-    Qualification](http://www.wrighteagle.org/rco/rco09/2d/qualification.html) | [Results](http://wrighteagle.org/rco/rco09/2d/results.html)  Nov 20-23, 2009.
+    Qualification](http://ai.ustc.edu.cn/rco/rco09/2d/qualification.html) | [Results](http://ai.ustc.edu.cn/rco/rco09/2d/results.html)  Nov 20-23, 2009.
 -   [RoboCup 2009](http://www.robocup2009.org/) | [Results](http://romeo.ist.tugraz.at/robocup2009/)   Jun 29 - Jul 5, 2009.
 -   [RoboCup 2009 Exercise Competitions, China](http://robocup-cn.org/exercise/)   May 15-17, 2009.
 -   [RoboCup Japan Open 2009](http://www.robocup.or.jp/2009JP_OPEN_1_eng.htm)   May 7-10, 2009.

@@ -56,7 +56,7 @@ Publications by the WrightEagle team (including WrightEagle 2D,
 WrightEagle@Home, WrightEagle SPL and WrightEagle 3D).
 
 -   [WrightEagle
-    Publications](http://www.wrighteagle.org/en/publication/index.php)
+    Publications](http://ai.ustc.edu.cn/en/publication/index.php)
 
 \
 \
